@@ -1,0 +1,25 @@
+body {
+  margin: 100px;
+  text-align: center;
+}
+
+h1{
+  font-size: 30px;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 1em 2em;
+  margin: 20px;
+}
+
+#yes {
+  background:#5cb85c;
+}
+
+#no {
+  background: #d9534f;
+}
